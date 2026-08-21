@@ -1,0 +1,30 @@
+Backend Engineering Intern - Acme Analytics
+
+About the role:
+We are looking for a Backend Engineering Intern to join our platform team for a
+6-month internship. You will work closely with senior engineers to build and
+maintain APIs that power our analytics dashboard.
+
+Responsibilities:
+- Design and implement REST APIs using Python
+- Write unit and integration tests for backend services
+- Collaborate with the frontend team to define API contracts
+- Debug production issues and participate in code reviews
+- Contribute to internal documentation
+
+Required qualifications:
+- Solid understanding of Python
+- Experience building REST APIs with FastAPI or Flask
+- Familiarity with SQL databases
+- Understanding of Git and version control workflows
+- Currently pursuing a degree in Computer Science or related field
+
+Preferred qualifications:
+- Experience with Docker
+- Exposure to cloud platforms (AWS, GCP, or Azure)
+- Familiarity with CI/CD pipelines
+- Prior experience working with LLM or RAG-based systems
+
+Experience requirement:
+No prior professional experience required; internship or academic project
+experience is welcome.
